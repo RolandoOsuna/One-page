@@ -3,11 +3,13 @@ body{
 }
 footer{
     background-color: #444444;
-    height: 25vh;
 }
 .bg-header{
     background-image: url(../IMG/bg-header.jpg);
     background-position: center center;
     background-size: cover;
     height: 100vh;
+}
+.margen{
+    margin-right: 0.1px;
 }
