@@ -4,6 +4,10 @@ body{
 footer{
     background-color: #444444;
 }
+.iframe-responsive {
+    max-width: 100%;
+    /* height: auto; */
+   }
 .bg-header{
     background-image: url(../IMG/bg-header.jpg);
     background-position: center center;
